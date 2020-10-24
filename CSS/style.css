@@ -1,0 +1,102 @@
+
+body{
+
+	background-color:#a6dcef;
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+}
+.cloud2{
+	position: absolute;
+	left: 150px;
+}
+h1{
+	font-size: 90px;
+	font-family: 'Sacramento', cursive;
+	color:#0f3057;
+}
+.webc{
+	font-size: 40px;
+	color:#709fb0;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 45px;
+	color:#006a71;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+	color:#407088;
+}
+.cloud1{
+	position: relative;
+	left: 500px;
+
+}
+.middle-container{
+	margin: 50px auto 50px auto;
+
+}
+.skill-row{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	line-height: 2;
+}
+.coding_image{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 20px; 
+}
+.tennis_image{
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-left: 20px;	
+}
+hr{
+		width: 60px;
+		height: 30px;    
+		border-style:none;
+		border-top-style: dotted;
+		border-width: 5px;
+		color:#70adb5;
+			}
+.text-color{
+	padding-bottom: 50px;
+}
+.top-container{
+	padding-top: 50px;
+}
+.bottom-container{
+	background-color:#51adcf ;
+	margin:100px auto auto auto ;
+	padding-top:100px ;
+	padding-bottom:50px ;
+}
+.footer-link{
+	color:#0278ae ;
+	font-family: 'Montserrat', sans-serif;
+	margin: auto 20px ;
+	text-decoration: none;
+}
+.footer-link:hover{
+	color: white;
+	text-decoration: underline;
+	font-size: 20px ;
+}
+.copywright{
+	color: white;
+	padding-top: 20px;
+	font-size: 13px;
+}
+.btn-primary{
+	text-decoration: none;
+	color:black;
+	font-size: 20px;
+}
+.btn-primary:hover{
+	color:grey;
+	font-size: 25px;
+	text-decoration: underline;
+}
